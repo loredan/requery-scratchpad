@@ -1,0 +1,3 @@
+rootProject.name = 'scratchpad'
+include 'main'
+
